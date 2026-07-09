@@ -134,7 +134,7 @@ order: 4
 
 <div class="lang-content" id="content-ko" markdown="1">
 
-> 기술과 사람들의 삶이 의미 있게 교차하는 지점을 만드는 엔지니어.
+> 기술과 사람들의 삶이 교차하는 지점을 만드는 엔지니어를 목표로 하고 있습니다.
 
 ## Profile
 
