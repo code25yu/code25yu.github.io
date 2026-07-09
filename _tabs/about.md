@@ -45,7 +45,7 @@ order: 4
 </style>
 
 <div class="lang-tabs" markdown="0">
-  <input type="radio" name="lang" id="lang-ja"checked>
+  <input type="radio" name="lang" id="lang-ja" checked>
   <input type="radio" name="lang" id="lang-en">
   <input type="radio" name="lang" id="lang-ko">
 

@@ -16,7 +16,7 @@ timezone: Asia/Tokyo
 
 title: code25yu # the main title
 
-tagline: Backend/Full Stack Engineer  # it will display as the subtitle
+tagline: Backend/Fullstack Engineer  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
