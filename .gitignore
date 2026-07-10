@@ -33,4 +33,7 @@ Thumbs.db
 
 # Personal
 tools/publish.sh
+tools/categories.sh
+tools/generate_categories.py
+CATEGORIES.md
 .claude/
